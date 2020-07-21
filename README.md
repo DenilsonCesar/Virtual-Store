@@ -10,7 +10,7 @@ Estudos com flutter e Designer UX.
     <img src="./screenshots/splash.png" width="200px"/> 
     <img src="./screenshots/home.png" width="200px"/> 
     <img src="./screenshots/carrinho.png" width="200px"/> 
-    <img src="./screenshots/favoritos.png" width="200px"/> 
+    <img src="./screenshots/favorito.png" width="200px"/> 
     <img src="./screenshots/ajustes.png" width="200px"/> 
 </div>
 
