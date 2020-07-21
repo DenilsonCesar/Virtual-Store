@@ -7,7 +7,6 @@ Estudos com flutter e Designer UX.
 ## Telas Principais
 
 <div align="center">
-    <img src="./screenshots/splash.png" width="200px"/> 
     <img src="./screenshots/home.png" width="200px"/> 
     <img src="./screenshots/carrinho.png" width="200px"/> 
     <img src="./screenshots/favorito.png" width="200px"/> 
