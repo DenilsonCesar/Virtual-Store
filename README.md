@@ -19,7 +19,7 @@ Para visualizar todas as screen do projeto no figma acesse abaixo
 
 # Motivação do Projeto.
 
-Aumetar os conhecimento com o desenvolvimento mobile com flutter e aproveitar junto com a ideia colocar em pratica os conhecimeno de ux para praticar e melhor para no futuro criar prototipagens incriveis.
+Aumentar os conhecimento com o desenvolvimento mobile com flutter e aproveitar junto com a ideia colocar em pratica os conhecimeno de ux para praticar e melhor para no futuro criar prototipagens incriveis.
 
 
 ## License
